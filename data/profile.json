@@ -1,0 +1,67 @@
+{
+  "name": "Higor Campos",
+  "photo": "https://avatars.githubusercontent.com/u/64551654?s=400&u=349de7dcf1a4713f8d4589824d11cf2fdcfc6974&v=4",
+  "job": "Desenvolvedor Front-end & Explorando IA",
+  "location": "Curitiba - PR",
+  "phone": "(41) 99885-3752 (WhatsApp | Telegram Apenas)",
+  "email": "higordecampos@gmail.com",
+  "about": "Desenvolvedor Front-end. Sou do espectro autista (TEA), trago para a tecnologia um olhar hiperfocado nos detalhes, forte capacidade analítica, organização e uma abordagem metódica para solução de problemas e aprendizado contínuo. Com foco em soluções dinâmicas e exploração de Inteligência Artificial.",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Front-end",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "Back-end",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      }
+    ],
+    "softSkills": [
+      "Foco em Detalhes",
+      "Resolução de Problemas",
+      "Pensamento Analítico",
+      "Autonomia",
+      "Visão Sistêmica",
+      "Aprendizado Contínuo"
+    ]
+  },
+  "languages": [
+    "Português Brasileiro (Nativo)",
+    "Inglês (Em desenvolvimento em Leitura e Conversação)"
+  ],
+  "portfolio": [
+    {
+      "name": "Portfólio Profissional no GitHub Pages",
+      "url": "https://github.com/HigorCamposGit",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Consultor de TI | Profissional Autônomo",
+      "period": "Atuação Atual",
+      "description": "Atuação em Consultoria Técnica, Suporte, Infraestrutura, Desenvolvimento Web e Integração de Soluções com Inteligência Artificial."
+    }
+  ]
+}
