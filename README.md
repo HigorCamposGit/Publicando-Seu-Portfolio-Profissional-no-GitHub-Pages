@@ -17,7 +17,7 @@ Você pode acessar a versão ao vivo do portfólio através do link:
 * `index.html`: Estrutura principal da página.
 * `assets/css/`: Estilos da interface.
 * `assets/js/`: Scripts para carregamento e renderização dos dados.
-* `data/profile.json`: Arquivo contendo as informações do perfil (nome, sobre, cargo, localização, habilidades, experiência, etc.).
+* `data/profile`,`.json`: Arquivo contendo as informações do perfil (`nome`, `sobre`, `cargo`, `localização`, `habilidades`, `experiência`.).
 * `data/imgs/`: Imagens e logos dos ícones de tecnologias.
 * `assets/img/`: Imagem de perfil e outros *assets* visuais.
 
