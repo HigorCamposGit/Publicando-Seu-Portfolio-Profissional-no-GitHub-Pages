@@ -7,7 +7,7 @@ Portfólio desenvolvido como parte do desafio da Digital Innovation One (DIO),cu
 
 ## 🚀 Acesse o Projeto
 Você pode acessar a versão ao vivo do portfólio através do link:
-👉 [https://higorcamposgit.github.io/NOME_DO_SEU_REPO/](https://higorcamposgit.github.io/NOME_DO_SEU_REPO/)
+👉 [Portifólio Higor de Campos](https://higorcamposgit.github.io/Publicando-Seu-Portfolio-Profissional-no-GitHub-Pages/))
 
 ---
 
