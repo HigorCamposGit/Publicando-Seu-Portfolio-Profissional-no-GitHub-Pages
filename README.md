@@ -1,5 +1,5 @@
 # Desafio-Publicando-Seu-Portfolio-Profissional-no-GitHub-Pages.
-* Portfólio Profissional | Higor de Campos.*
+* Portfólio Profissional | Higor de Campos.
 
 Portfólio desenvolvido como parte do desafio da Digital Innovation One (DIO),curso **Formação JavaScript Developer** estruturado com arquitetura baseada em JSON e estilização modularizada.
 
